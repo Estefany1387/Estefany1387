@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I´m Estefany Valdés 👋
 
-<!--
-**Estefany1387/Estefany1387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Know a little bit about me:**
+
+- 🔭 I’m currently working on finding my first job in data analysis.🙋🏽‍♀️📶
+- 🌱 I’m currently learning java programming language.👩🏽‍💻💻
+- 👯 I’m looking to collaborate on supply chain, logistics and manufacturing issues applying data analysis.⛓️🛒🦺🫱🏽‍🫲🏽
+- 📫 How to reach me: E-MAIL estefany.valdes87@gmail.com and LinkedIn https://www.linkedin.com/in/estefany-valdes/👩🏽🙌🏽📧
+- ⚡ Fun fact: CAT LOVER 😍🐱😺😻
+
+![DataAnalysisGIF](https://github.com/Estefany1387/Estefany1387/assets/127233408/298beb69-1e6a-47d1-935c-36c78660db52)
+
